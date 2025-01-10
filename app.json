@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "HCI_V04",
+    "slug": "HCI_V04",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hci",
+      "usesNotifications": true,
+      "runtimeVersion": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff",
+        "googleServicesFile": "./google-services.json"
+      },
+      "package": "com.hci",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e1e68c8f-9c9f-4178-b0bb-0643c473bdbc"
+      }
+    },
+    "plugins": [
+      "expo-video"
+    ],
+    "updates": {
+      "url": "https://u.expo.dev/e1e68c8f-9c9f-4178-b0bb-0643c473bdbc"
+    }
+  }
+}
