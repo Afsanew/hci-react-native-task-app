@@ -1,6 +1,6 @@
 # HCI Course Project: Task Management App
 
-This app was developed as part of the Human-Computer Interaction (HCI) course at ETH Zurich. The focus of the course was on **designing user-centered solutions**, with less emphasis on the coding aspect. When starting this project, I had no prior knowledge of React or React Native and learned everything on the go during the roughly **three-week development period**. Special thanks to AI tools like ChatGPT and GitHub Copilot, which were crucial in speeding up my learning and coding process :) 
+This app was developed as part of the Human-Computer Interaction (HCI) course at ETH Zurich. The focus of the course was on **designing user-centered solutions**, with less emphasis on the coding aspect.
 
 ## Running the App
 ### How to Run the App
